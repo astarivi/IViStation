@@ -5,7 +5,7 @@
       {
         "id": "unleashx",
         "title": "UnleashX",
-        "thumbnail": "https://i.imgur.com/0rUxENr.png",
+        "thumbnail": "https://i.ibb.co/0GXKpB5/unleahx.png",
         "version": 1,
         "required_version": 1,
         "description": "UnleashX is one of the most recognized custom dashboards. Commonly bundled with softmodded consoles back in the day, it is flexible, user friendly, and highly customizable through skins. Although it stopped receiving updates long ago, it remains the staple of dashboards for some, and the top pick for others.[CR][CR]Version: 0.39.0528 Build 584[CR]Credits: UnleashX Team",
@@ -16,7 +16,7 @@
       {
         "id": "lithiumx",
         "title": "LithiumX",
-        "thumbnail": "https://res.cloudinary.com/ddycuxdc0/image/upload/v1708567945/store/acvustrg857jcslqbgqy.png",
+        "thumbnail": "https://i.ibb.co/rM3QdPD/lithiumx.png",
         "version": 1,
         "required_version": 1,
         "description": "LithiumX is an open source, lightning fast, simple dashboard. It includes some useful features such as an FTP server and an XBE launcher. LithiumX is still in development, and receives somewhat frequent updates.[CR][CR]Source: https://github.com/Ryzee119/LithiumX[CR]Version: 0.9.4[CR]Credits: Ryzee119, LoveMHz, GXTX, Ernegien",
@@ -32,7 +32,7 @@
       {
         "id": "fceultra",
         "title": "NES: FCE UltraX",
-        "thumbnail": "https://i.imgur.com/K1tB9IU.png",
+        "thumbnail": "https://i.ibb.co/pbvMWW3/fceultra.png",
         "version": 1,
         "required_version": 1,
         "description": "Not to be confused with its modern fork FCEUX, FCE Ultra is a NES emulator with decent accuracy and great speed, but limited game support. It was developed until 2004, where the project was abandoned, further giving birth to FCEUX some time later in 2008. Considered by many as one of the fastest old-school emulators, it was brought to the Xbox by XPorts.[CR][CR]Credits: Bero, Ben Parnell, Xodnizel, FCE Team, FCEU Team, XPorts",
@@ -48,7 +48,7 @@
       {
         "id": "ivistation",
         "title": "IVistation",
-        "thumbnail": "https://i.imgur.com/Xrt4uwF.png",
+        "thumbnail": "https://i.ibb.co/BKdBfZ6/ivistation.png",
         "version": 1,
         "required_version": 0,
         "required_updater": 1,
@@ -61,7 +61,7 @@
       {
         "id": "ivupdater",
         "title": "IVistation Updater",
-        "thumbnail": "https://i.imgur.com/DvV0ckx.png",
+        "thumbnail": "https://i.ibb.co/BKdBfZ6/ivistation.png",
         "version": 1,
         "required_version": 0,
         "description": "IVistation Updater is an open-source, standalone update installer and rescue environment for IVistation in the form of a single 'update.xbe' executable.[CR][CR]Source: https://github.com/astarivi/IVistation-Updater[CR]Latest release: v1[CR]Credits: astarivi",
